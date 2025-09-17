@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fua-ios-pod.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fua-ios-pod?ref=badge_shield)
+
 **Deprecated** ua-ios-pod
 =========================
 
@@ -36,3 +38,7 @@ Bitcode Support:
 ^^^^^^^^^^^^^^^^
 
 As of version 6.4.0, ua-ios-pod supports bitcode by default.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fua-ios-pod.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fua-ios-pod?ref=badge_large)
